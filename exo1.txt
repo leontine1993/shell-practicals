@@ -1,0 +1,102 @@
+    1  sudo apt full-upgrade
+    2  sudo apt
+    3  sudo apt update
+    4  sudo apt full-upgrade
+    5  sudo apt install texmaker
+    6  sudo reboot
+    7  sudo apt install texmaker
+    8  sudo apt install jupyter-notebook
+    9  sudo apt install sagemath
+   10  sudo apt install r-base
+   11  wget https://download1.rstudio.org/desktop/bionic/amd64/rstudio-1.3.1093-amd64.deb
+   12  ls
+   13  sudo apt install ./rstudio-1.3.1093-amd64.deb 
+   14  sudo apt install spyder
+   15  cd Téléchargements/
+   16  ls
+   17  sudo apt install ./zoom_amd64.deb 
+   18  sudo apt install spyder
+   19  cd
+   20  ls
+   21  mkdir leon
+   22  cd leon
+   23  git init
+   24  git add fichier
+   25  git init
+   26  cd git
+   27  mkdir tina
+   28  ls leon
+   29  ls
+   30  git statut
+   31  git add README.md
+   32  cd
+   33  jupyter
+   34  jupyter notebook
+   35  jupyter note book
+   36  jupyter notebook
+   37  jupyter notebook
+   38  jupiter notebook
+   39  jupyter notebook
+   40  ls
+   41  mkdir unix
+   42  ls
+   43  mkdir unix
+   44  touch foot.txt
+   45  ls
+   46  cp foo.txt foo-copy.txt
+   47  touch foo.txt
+   48  ls
+   49  cp foo.txt foo-copy.txt
+   50  ls
+   51  mv foo-copy.txt foo2.txt
+   52  ls
+   53  mkdir new
+   54  mkdir unix
+   55  ls
+   56  cd unix
+   57  touch foo.txt
+   58  ls
+   59  cd unix
+   60  mkdir data
+   61  ls
+   62  mv foo2.txt data
+   63  mv foo-copy.txt foo2.txt
+   64  clear
+   65  ls
+   66  clear
+   67  MKDIR UNIX
+   68  clear
+   69  mkdir unix
+   70  cd unix
+   71  touch foo.txt
+   72  cp foo.txt foo-copy.txt
+   73  mkdir new
+   74  mkdir unix
+   75  cd unix
+   76  mv foo-copy.txt foo2.txt
+   77  mv foo-copy.txt
+   78  ls
+   79  clear
+   80  mkdir unix
+   81  cd unix
+   82  clear
+   83  ls
+   84  mkdir unix
+   85  touch foo.txt
+   86  mv foo-copy.txt foo2.txt
+   87  ;cd unix
+   88  cd unix
+   89  mkdir data
+   90  mv foo2.txt data
+   91  ls
+   92  mv foo-copy.txt foo2.txt
+   93  ls
+   94  mv foo2.txt data
+   95  ls
+   96  mkdir new
+   97  mv data/foo2.txt new
+   98  ls
+   99  mv new/foo2.txt foo-old.txt
+  100  rm foo-old.txt
+  101  rmdir new
+  102  history >> exo1.txt
